@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\ServiceA",
+    "\\ServiceA\\Services",
+    "\\ServiceB",
+    "\\ServiceB\\Protos",
+    "\\Tests",
+    "\\Tests\\ServiceTests",
+    "\\Tests\\ServiceTests\\Controllers",
+    "\\Tests\\ServiceTests\\Repositories",
+    "\\Tests\\ServiceTests\\Services"
+  ],
+  "SelectedNode": "\\Tests\\ServiceTests\\Services\\QueueConsumerTests.cs",
+  "PreviewInSolutionExplorer": false
+}

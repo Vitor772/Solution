@@ -1,0 +1,551 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vitor\\OneDrive\\Desktop\\Solution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vitor\\OneDrive\\Desktop\\Solution\\Tests\\ServiceTests\\Services\\QueueConsumerTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Tests\\ServiceTests\\Services\\QueueConsumerTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vitor\\OneDrive\\Desktop\\Solution\\Tests\\ServiceTests\\Repositories\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Tests\\ServiceTests\\Repositories\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vitor\\OneDrive\\Desktop\\Solution\\Tests\\ServiceTests\\Controllers\\ServiceATests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Tests\\ServiceTests\\Controllers\\ServiceATests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vitor\\OneDrive\\Desktop\\Solution\\ServiceB\\Services\\PaymentService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ServiceB\\Services\\PaymentService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vitor\\OneDrive\\Desktop\\Solution\\ServiceA\\Controllers\\PaymentsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ServiceA\\Controllers\\PaymentsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vitor\\OneDrive\\Desktop\\Solution\\Tests\\ServiceTests\\Services\\PaymentServiceTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Tests\\ServiceTests\\Services\\PaymentServiceTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vitor\\OneDrive\\Desktop\\Solution\\Tests\\ServiceTests\\Services\\QueueServiceTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Tests\\ServiceTests\\Services\\QueueServiceTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vitor\\OneDrive\\Desktop\\Solution\\Tests\\ServiceTests\\ServiceTests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Tests\\ServiceTests\\ServiceTests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vitor\\OneDrive\\Desktop\\Solution\\Tests\\ServiceTests\\Repositories\\PaymentRepositoryTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Tests\\ServiceTests\\Repositories\\PaymentRepositoryTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vitor\\OneDrive\\Desktop\\Solution\\Tests\\ServiceTests\\Controllers\\ServiceBTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Tests\\ServiceTests\\Controllers\\ServiceBTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vitor\\OneDrive\\Desktop\\Solution\\Tests\\ServiceTests\\AzureServiceBusAdapterTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Tests\\ServiceTests\\AzureServiceBusAdapterTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vitor\\OneDrive\\Desktop\\Solution\\Tests\\ServiceTests\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Tests\\ServiceTests\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vitor\\OneDrive\\Desktop\\Solution\\ServiceA\\Services\\PaymentService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ServiceA\\Services\\PaymentService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vitor\\OneDrive\\Desktop\\Solution\\ServiceB\\Repositories\\PaymentRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ServiceB\\Repositories\\PaymentRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vitor\\OneDrive\\Desktop\\Solution\\ServiceB\\ServiceB.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ServiceB\\ServiceB.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vitor\\OneDrive\\Desktop\\Solution\\ServiceA\\ServiceA.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ServiceA\\ServiceA.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vitor\\OneDrive\\Desktop\\Solution\\ServiceA\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ServiceA\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vitor\\OneDrive\\Desktop\\Solution\\ServiceB\\Adapters\\PaymentQueueConsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ServiceB\\Adapters\\PaymentQueueConsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vitor\\OneDrive\\Desktop\\Solution\\ServiceB\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ServiceB\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vitor\\OneDrive\\Desktop\\Solution\\ServiceA\\Adapters\\PaymentQueueAdapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ServiceA\\Adapters\\PaymentQueueAdapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vitor\\OneDrive\\Desktop\\Solution\\ServiceA\\DTOs\\PaymentIntentionDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ServiceA\\DTOs\\PaymentIntentionDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vitor\\OneDrive\\Desktop\\Solution\\ServiceA\\DTOs\\PaymentQueueMessageDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ServiceA\\DTOs\\PaymentQueueMessageDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vitor\\OneDrive\\Desktop\\Solution\\ServiceB\\Controllers\\PaymentsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ServiceB\\Controllers\\PaymentsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vitor\\OneDrive\\Desktop\\Solution\\ServiceB\\DTOs\\PaymentQueueMessageDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ServiceB\\DTOs\\PaymentQueueMessageDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vitor\\OneDrive\\Desktop\\Solution\\ServiceB\\Models\\PaymentIntention.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ServiceB\\Models\\PaymentIntention.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vitor\\OneDrive\\Desktop\\Solution\\Shared\\Shared.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Shared\\Shared.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vitor\\OneDrive\\Desktop\\Solution\\Shared\\Shared\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Shared\\Shared\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vitor\\OneDrive\\Desktop\\Solution\\ServiceB\\appsettings.Development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ServiceB\\appsettings.Development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vitor\\OneDrive\\Desktop\\Solution\\ServiceB\\ServiceB.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ServiceB\\ServiceB.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vitor\\OneDrive\\Desktop\\Solution\\ServiceA\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ServiceA\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vitor\\OneDrive\\Desktop\\Solution\\ServiceB\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ServiceB\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ServiceTests.csproj",
+              "DocumentMoniker": "C:\\Users\\vitor\\OneDrive\\Desktop\\Solution\\Tests\\ServiceTests\\ServiceTests.csproj",
+              "RelativeDocumentMoniker": "Tests\\ServiceTests\\ServiceTests.csproj",
+              "ToolTip": "C:\\Users\\vitor\\OneDrive\\Desktop\\Solution\\Tests\\ServiceTests\\ServiceTests.csproj",
+              "RelativeToolTip": "Tests\\ServiceTests\\ServiceTests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-26T01:56:34.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\vitor\\OneDrive\\Desktop\\Solution\\Tests\\ServiceTests\\Repositories\\Class1.cs",
+              "RelativeDocumentMoniker": "Tests\\ServiceTests\\Repositories\\Class1.cs",
+              "ToolTip": "C:\\Users\\vitor\\OneDrive\\Desktop\\Solution\\Tests\\ServiceTests\\Repositories\\Class1.cs",
+              "RelativeToolTip": "Tests\\ServiceTests\\Repositories\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T01:54:48.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PaymentRepositoryTests.cs",
+              "DocumentMoniker": "C:\\Users\\vitor\\OneDrive\\Desktop\\Solution\\Tests\\ServiceTests\\Repositories\\PaymentRepositoryTests.cs",
+              "RelativeDocumentMoniker": "Tests\\ServiceTests\\Repositories\\PaymentRepositoryTests.cs",
+              "ToolTip": "C:\\Users\\vitor\\OneDrive\\Desktop\\Solution\\Tests\\ServiceTests\\Repositories\\PaymentRepositoryTests.cs",
+              "RelativeToolTip": "Tests\\ServiceTests\\Repositories\\PaymentRepositoryTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T01:41:50.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "QueueServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\vitor\\OneDrive\\Desktop\\Solution\\Tests\\ServiceTests\\Services\\QueueServiceTests.cs",
+              "RelativeDocumentMoniker": "Tests\\ServiceTests\\Services\\QueueServiceTests.cs",
+              "ToolTip": "C:\\Users\\vitor\\OneDrive\\Desktop\\Solution\\Tests\\ServiceTests\\Services\\QueueServiceTests.cs",
+              "RelativeToolTip": "Tests\\ServiceTests\\Services\\QueueServiceTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T01:40:48.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PaymentServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\vitor\\OneDrive\\Desktop\\Solution\\Tests\\ServiceTests\\Services\\PaymentServiceTests.cs",
+              "RelativeDocumentMoniker": "Tests\\ServiceTests\\Services\\PaymentServiceTests.cs",
+              "ToolTip": "C:\\Users\\vitor\\OneDrive\\Desktop\\Solution\\Tests\\ServiceTests\\Services\\PaymentServiceTests.cs",
+              "RelativeToolTip": "Tests\\ServiceTests\\Services\\PaymentServiceTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T01:40:21.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ServiceATests.cs",
+              "DocumentMoniker": "C:\\Users\\vitor\\OneDrive\\Desktop\\Solution\\Tests\\ServiceTests\\Controllers\\ServiceATests.cs",
+              "RelativeDocumentMoniker": "Tests\\ServiceTests\\Controllers\\ServiceATests.cs",
+              "ToolTip": "C:\\Users\\vitor\\OneDrive\\Desktop\\Solution\\Tests\\ServiceTests\\Controllers\\ServiceATests.cs",
+              "RelativeToolTip": "Tests\\ServiceTests\\Controllers\\ServiceATests.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T01:22:38.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PaymentsController.cs",
+              "DocumentMoniker": "C:\\Users\\vitor\\OneDrive\\Desktop\\Solution\\ServiceA\\Controllers\\PaymentsController.cs",
+              "RelativeDocumentMoniker": "ServiceA\\Controllers\\PaymentsController.cs",
+              "ToolTip": "C:\\Users\\vitor\\OneDrive\\Desktop\\Solution\\ServiceA\\Controllers\\PaymentsController.cs",
+              "RelativeToolTip": "ServiceA\\Controllers\\PaymentsController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T00:12:47.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PaymentService.cs",
+              "DocumentMoniker": "C:\\Users\\vitor\\OneDrive\\Desktop\\Solution\\ServiceB\\Services\\PaymentService.cs",
+              "RelativeDocumentMoniker": "ServiceB\\Services\\PaymentService.cs",
+              "ToolTip": "C:\\Users\\vitor\\OneDrive\\Desktop\\Solution\\ServiceB\\Services\\PaymentService.cs",
+              "RelativeToolTip": "ServiceB\\Services\\PaymentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T00:20:44.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "QueueConsumerTests.cs",
+              "DocumentMoniker": "C:\\Users\\vitor\\OneDrive\\Desktop\\Solution\\Tests\\ServiceTests\\Services\\QueueConsumerTests.cs",
+              "RelativeDocumentMoniker": "Tests\\ServiceTests\\Services\\QueueConsumerTests.cs",
+              "ToolTip": "C:\\Users\\vitor\\OneDrive\\Desktop\\Solution\\Tests\\ServiceTests\\Services\\QueueConsumerTests.cs",
+              "RelativeToolTip": "Tests\\ServiceTests\\Services\\QueueConsumerTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T01:41:22.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ServiceBTests.cs",
+              "DocumentMoniker": "C:\\Users\\vitor\\OneDrive\\Desktop\\Solution\\Tests\\ServiceTests\\Controllers\\ServiceBTests.cs",
+              "RelativeDocumentMoniker": "Tests\\ServiceTests\\Controllers\\ServiceBTests.cs",
+              "ToolTip": "C:\\Users\\vitor\\OneDrive\\Desktop\\Solution\\Tests\\ServiceTests\\Controllers\\ServiceBTests.cs",
+              "RelativeToolTip": "Tests\\ServiceTests\\Controllers\\ServiceBTests.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T01:23:50.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AzureServiceBusAdapterTests.cs",
+              "DocumentMoniker": "C:\\Users\\vitor\\OneDrive\\Desktop\\Solution\\Tests\\ServiceTests\\AzureServiceBusAdapterTests.cs",
+              "RelativeDocumentMoniker": "Tests\\ServiceTests\\AzureServiceBusAdapterTests.cs",
+              "ToolTip": "C:\\Users\\vitor\\OneDrive\\Desktop\\Solution\\Tests\\ServiceTests\\AzureServiceBusAdapterTests.cs",
+              "RelativeToolTip": "Tests\\ServiceTests\\AzureServiceBusAdapterTests.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAADMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T01:52:53.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vitor\\OneDrive\\Desktop\\Solution\\Tests\\ServiceTests\\Program.cs",
+              "RelativeDocumentMoniker": "Tests\\ServiceTests\\Program.cs",
+              "ToolTip": "C:\\Users\\vitor\\OneDrive\\Desktop\\Solution\\Tests\\ServiceTests\\Program.cs",
+              "RelativeToolTip": "Tests\\ServiceTests\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T01:20:44.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "PaymentQueueMessageDto.cs",
+              "DocumentMoniker": "C:\\Users\\vitor\\OneDrive\\Desktop\\Solution\\ServiceA\\DTOs\\PaymentQueueMessageDto.cs",
+              "RelativeDocumentMoniker": "ServiceA\\DTOs\\PaymentQueueMessageDto.cs",
+              "ToolTip": "C:\\Users\\vitor\\OneDrive\\Desktop\\Solution\\ServiceA\\DTOs\\PaymentQueueMessageDto.cs",
+              "RelativeToolTip": "ServiceA\\DTOs\\PaymentQueueMessageDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T00:08:42.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vitor\\OneDrive\\Desktop\\Solution\\ServiceA\\Program.cs",
+              "RelativeDocumentMoniker": "ServiceA\\Program.cs",
+              "ToolTip": "C:\\Users\\vitor\\OneDrive\\Desktop\\Solution\\ServiceA\\Program.cs",
+              "RelativeToolTip": "ServiceA\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T23:51:18.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ServiceA.csproj",
+              "DocumentMoniker": "C:\\Users\\vitor\\OneDrive\\Desktop\\Solution\\ServiceA\\ServiceA.csproj",
+              "RelativeDocumentMoniker": "ServiceA\\ServiceA.csproj",
+              "ToolTip": "C:\\Users\\vitor\\OneDrive\\Desktop\\Solution\\ServiceA\\ServiceA.csproj",
+              "RelativeToolTip": "ServiceA\\ServiceA.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-25T23:58:07.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vitor\\OneDrive\\Desktop\\Solution\\ServiceB\\Program.cs",
+              "RelativeDocumentMoniker": "ServiceB\\Program.cs",
+              "ToolTip": "C:\\Users\\vitor\\OneDrive\\Desktop\\Solution\\ServiceB\\Program.cs",
+              "RelativeToolTip": "ServiceB\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T23:47:59.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PaymentQueueConsumer.cs",
+              "DocumentMoniker": "C:\\Users\\vitor\\OneDrive\\Desktop\\Solution\\ServiceB\\Adapters\\PaymentQueueConsumer.cs",
+              "RelativeDocumentMoniker": "ServiceB\\Adapters\\PaymentQueueConsumer.cs",
+              "ToolTip": "C:\\Users\\vitor\\OneDrive\\Desktop\\Solution\\ServiceB\\Adapters\\PaymentQueueConsumer.cs",
+              "RelativeToolTip": "ServiceB\\Adapters\\PaymentQueueConsumer.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T00:19:50.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ServiceB.csproj",
+              "DocumentMoniker": "C:\\Users\\vitor\\OneDrive\\Desktop\\Solution\\ServiceB\\ServiceB.csproj",
+              "RelativeDocumentMoniker": "ServiceB\\ServiceB.csproj",
+              "ToolTip": "C:\\Users\\vitor\\OneDrive\\Desktop\\Solution\\ServiceB\\ServiceB.csproj",
+              "RelativeToolTip": "ServiceB\\ServiceB.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-25T02:20:57.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PaymentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\vitor\\OneDrive\\Desktop\\Solution\\ServiceB\\Repositories\\PaymentRepository.cs",
+              "RelativeDocumentMoniker": "ServiceB\\Repositories\\PaymentRepository.cs",
+              "ToolTip": "C:\\Users\\vitor\\OneDrive\\Desktop\\Solution\\ServiceB\\Repositories\\PaymentRepository.cs",
+              "RelativeToolTip": "ServiceB\\Repositories\\PaymentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T00:19:03.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PaymentService.cs",
+              "DocumentMoniker": "C:\\Users\\vitor\\OneDrive\\Desktop\\Solution\\ServiceA\\Services\\PaymentService.cs",
+              "RelativeDocumentMoniker": "ServiceA\\Services\\PaymentService.cs",
+              "ToolTip": "C:\\Users\\vitor\\OneDrive\\Desktop\\Solution\\ServiceA\\Services\\PaymentService.cs",
+              "RelativeToolTip": "ServiceA\\Services\\PaymentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T00:12:13.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "PaymentIntentionDto.cs",
+              "DocumentMoniker": "C:\\Users\\vitor\\OneDrive\\Desktop\\Solution\\ServiceA\\DTOs\\PaymentIntentionDto.cs",
+              "RelativeDocumentMoniker": "ServiceA\\DTOs\\PaymentIntentionDto.cs",
+              "ToolTip": "C:\\Users\\vitor\\OneDrive\\Desktop\\Solution\\ServiceA\\DTOs\\PaymentIntentionDto.cs",
+              "RelativeToolTip": "ServiceA\\DTOs\\PaymentIntentionDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T00:08:04.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "PaymentQueueAdapter.cs",
+              "DocumentMoniker": "C:\\Users\\vitor\\OneDrive\\Desktop\\Solution\\ServiceA\\Adapters\\PaymentQueueAdapter.cs",
+              "RelativeDocumentMoniker": "ServiceA\\Adapters\\PaymentQueueAdapter.cs",
+              "ToolTip": "C:\\Users\\vitor\\OneDrive\\Desktop\\Solution\\ServiceA\\Adapters\\PaymentQueueAdapter.cs",
+              "RelativeToolTip": "ServiceA\\Adapters\\PaymentQueueAdapter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T00:11:10.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "PaymentsController.cs",
+              "DocumentMoniker": "C:\\Users\\vitor\\OneDrive\\Desktop\\Solution\\ServiceB\\Controllers\\PaymentsController.cs",
+              "RelativeDocumentMoniker": "ServiceB\\Controllers\\PaymentsController.cs",
+              "ToolTip": "C:\\Users\\vitor\\OneDrive\\Desktop\\Solution\\ServiceB\\Controllers\\PaymentsController.cs",
+              "RelativeToolTip": "ServiceB\\Controllers\\PaymentsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T00:21:21.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "PaymentQueueMessageDto.cs",
+              "DocumentMoniker": "C:\\Users\\vitor\\OneDrive\\Desktop\\Solution\\ServiceB\\DTOs\\PaymentQueueMessageDto.cs",
+              "RelativeDocumentMoniker": "ServiceB\\DTOs\\PaymentQueueMessageDto.cs",
+              "ToolTip": "C:\\Users\\vitor\\OneDrive\\Desktop\\Solution\\ServiceB\\DTOs\\PaymentQueueMessageDto.cs",
+              "RelativeToolTip": "ServiceB\\DTOs\\PaymentQueueMessageDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T00:04:23.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "PaymentIntention.cs",
+              "DocumentMoniker": "C:\\Users\\vitor\\OneDrive\\Desktop\\Solution\\ServiceB\\Models\\PaymentIntention.cs",
+              "RelativeDocumentMoniker": "ServiceB\\Models\\PaymentIntention.cs",
+              "ToolTip": "C:\\Users\\vitor\\OneDrive\\Desktop\\Solution\\ServiceB\\Models\\PaymentIntention.cs",
+              "RelativeToolTip": "ServiceB\\Models\\PaymentIntention.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T00:05:45.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Shared.csproj",
+              "DocumentMoniker": "C:\\Users\\vitor\\OneDrive\\Desktop\\Solution\\Shared\\Shared.csproj",
+              "RelativeDocumentMoniker": "Shared\\Shared.csproj",
+              "ToolTip": "C:\\Users\\vitor\\OneDrive\\Desktop\\Solution\\Shared\\Shared.csproj",
+              "RelativeToolTip": "Shared\\Shared.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-26T00:32:50.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\vitor\\OneDrive\\Desktop\\Solution\\Shared\\Shared\\Class1.cs",
+              "RelativeDocumentMoniker": "Shared\\Shared\\Class1.cs",
+              "ToolTip": "C:\\Users\\vitor\\OneDrive\\Desktop\\Solution\\Shared\\Shared\\Class1.cs",
+              "RelativeToolTip": "Shared\\Shared\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T00:32:38.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\vitor\\OneDrive\\Desktop\\Solution\\ServiceB\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "ServiceB\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\vitor\\OneDrive\\Desktop\\Solution\\ServiceB\\appsettings.Development.json",
+              "RelativeToolTip": "ServiceB\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-26T00:24:02.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ServiceB.http",
+              "DocumentMoniker": "C:\\Users\\vitor\\OneDrive\\Desktop\\Solution\\ServiceB\\ServiceB.http",
+              "RelativeDocumentMoniker": "ServiceB\\ServiceB.http",
+              "ToolTip": "C:\\Users\\vitor\\OneDrive\\Desktop\\Solution\\ServiceB\\ServiceB.http",
+              "RelativeToolTip": "ServiceB\\ServiceB.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-11-26T00:24:01.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\vitor\\OneDrive\\Desktop\\Solution\\ServiceA\\appsettings.json",
+              "RelativeDocumentMoniker": "ServiceA\\appsettings.json",
+              "ToolTip": "C:\\Users\\vitor\\OneDrive\\Desktop\\Solution\\ServiceA\\appsettings.json",
+              "RelativeToolTip": "ServiceA\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-25T23:51:59.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\vitor\\OneDrive\\Desktop\\Solution\\ServiceB\\appsettings.json",
+              "RelativeDocumentMoniker": "ServiceB\\appsettings.json",
+              "ToolTip": "C:\\Users\\vitor\\OneDrive\\Desktop\\Solution\\ServiceB\\appsettings.json",
+              "RelativeToolTip": "ServiceB\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-25T23:47:09.696Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

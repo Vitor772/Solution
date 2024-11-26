@@ -1,0 +1,8 @@
+C:\Users\vitor\OneDrive\Desktop\Solution\tests\servicetests\bin\Debug\net9.0\.msCoverageSourceRootsMapping_ServiceTests
+C:\Users\vitor\OneDrive\Desktop\Solution\tests\servicetests\bin\Debug\net9.0\CoverletSourceRootsMapping_ServiceTests
+C:\Users\vitor\OneDrive\Desktop\Solution\tests\servicetests\obj\Debug\net9.0\ServiceTests.csproj.AssemblyReference.cache
+C:\Users\vitor\OneDrive\Desktop\Solution\tests\servicetests\obj\Debug\net9.0\MvcTestingAppManifest.json
+C:\Users\vitor\OneDrive\Desktop\Solution\tests\servicetests\obj\Debug\net9.0\ServiceTests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitor\OneDrive\Desktop\Solution\tests\servicetests\obj\Debug\net9.0\ServiceTests.AssemblyInfoInputs.cache
+C:\Users\vitor\OneDrive\Desktop\Solution\tests\servicetests\obj\Debug\net9.0\ServiceTests.AssemblyInfo.cs
+C:\Users\vitor\OneDrive\Desktop\Solution\tests\servicetests\obj\Debug\net9.0\ServiceTests.csproj.CoreCompileInputs.cache
